@@ -5,7 +5,7 @@ Objective:
 ![image](https://user-images.githubusercontent.com/87946026/127307657-7e74b6a8-7414-43aa-9c4b-5b2e779aec27.png)
 
 
-Download the imports
+Download the required imports
 
 
 Data Source:
